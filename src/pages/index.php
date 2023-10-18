@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<!-- <!DOCTYPE html>
 <html lang="en">
 
 <head>
@@ -57,11 +57,7 @@
         <?php }
         $conn->close()
         ?>
-        <!-- // foreach ($data as $key => $value) {
-        // # code...
-        // } -->
-
     </table>
 </body>
 
-</html>
+</html> -->
